@@ -11,7 +11,21 @@
     position: absolute;
     width: 100px;
     height: 20px;
-    background-color: blue;
-    left: 50px;
-    bottom: 50px;
+    background-color: blue; 
 }
+
+.user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: purple; 
+}
+
+.ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+}
+
